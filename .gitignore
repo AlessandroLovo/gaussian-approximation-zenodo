@@ -1,0 +1,9 @@
+*.pdf
+*.ipynb_checkpoints*
+*__pycache__*
+
+Climate-Learning*
+README-in-progress.md
+
+gaus-approx/ERA5/Data_ERA5/raw*
+gaus-approx/ERA5/Data_ERA5/*.nc
