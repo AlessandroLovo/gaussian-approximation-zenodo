@@ -17,4 +17,5 @@ Follow the steps in the `preprocess.ipynb` notebook.
 
 Preprocessing includes:
 - Computing area integral over France for the temperature field
-- Detrending
+- Regridding the geopotential field onto the PlaSim grid
+- Detrending to remove climate change signal
