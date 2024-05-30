@@ -101,10 +101,12 @@ In the following we show which notebook you need to run to reproduce any specifi
 - Table 5 : `ERA5/composites/composites-ERA5.ipynb`
 - Table 6 : `PLASIM/committor/committor.ipynb`
 
-- Figure A.1 : `ERA5/Data_ERA5/preprocess.ipynb`
-- Figure A.2 : `ERA5/Data_ERA5/preprocess.ipynb`
-- Figure A.3 : `PLASIM/composites/composites.ipynb`
-- Figure A.4 : `PLASIM/composites/composites.ipynb`
-- Figure A.5 : `PLASIM/composites/composites.ipynb`
-- Figure A.6 : `ERA5/committor/spectral-decomposition.ipynb`
-- Figure A.7 : `ERA5/committor/spectral-decomposition.ipynb`
+- Figure S1 : `ERA5/Data_ERA5/preprocess.ipynb`
+- Figure S2 : `ERA5/Data_ERA5/preprocess.ipynb`
+- Figure S3 : `PLASIM/composites/composites.ipynb`
+- Figure S4 : `PLASIM/composites/composites.ipynb`
+- Figure S5 : `PLASIM/composites/composites.ipynb`
+- Figure S6 : `ERA5/committor/spectral-decomposition.ipynb`
+- Figure S7 : `ERA5/committor/spectral-decomposition.ipynb`
+
+- Table S1, S2, S3 : `PLASIM/composites/composites.ipynb`
