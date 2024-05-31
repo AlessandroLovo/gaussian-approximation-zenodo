@@ -1,5 +1,7 @@
 # Code for the paper "A Gaussian framework for optimal prediction of extreme events"
 
+[![DOI](https://zenodo.org/badge/802543475.svg)](https://zenodo.org/doi/10.5281/zenodo.11400868)
+
 TODO: link preprint
 
 ## Data
