@@ -1,4 +1,4 @@
-# Code for the paper "A Gaussian framework for optimal prediction of extreme events"
+# Code for the paper "Gaussian Framework and Optimal Projection of Weather Fields for Prediction of Extreme Events"
 
 [![DOI](https://zenodo.org/badge/802543475.svg)](https://zenodo.org/doi/10.5281/zenodo.11400868)
 
