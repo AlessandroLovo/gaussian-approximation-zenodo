@@ -14,7 +14,7 @@ For [ERA5](https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5) inste
 
 To be able to run the notebooks in this repository, you need to clone the [Climate-Learning](https://github.com/georgemilosh/Climate-Learning) repository.
 
-To do put yoursel in the same directory of this file and run
+To do so, put yoursel in the same directory of this file and run
 
 ```bash
 git clone --recursive https://github.com/georgemilosh/Climate-Learning.git
