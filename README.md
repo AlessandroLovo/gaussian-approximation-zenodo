@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/802543475.svg)](https://zenodo.org/doi/10.5281/zenodo.11400868)
 
-TODO: link preprint
+[preprint](https://arxiv.org/abs/2405.20903)
 
 ## Data
 
