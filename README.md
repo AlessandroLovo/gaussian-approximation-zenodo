@@ -112,3 +112,4 @@ In the following we show which notebook you need to run to reproduce any specifi
 - Figure S7 : `ERA5/committor/spectral-decomposition.ipynb`
 
 - Table S1, S2, S3 : `PLASIM/composites/composites.ipynb`
+- Table S4 : `ERA5/committor/committor-ERA5.ipynb`
