@@ -40,7 +40,7 @@ Most of the notebooks will use only the submodule [general_purpose](https://gith
             - `projection_patterns_T14_tau0_y8000_fold4.nc` : projection patterns at different values of the regularization coefficient $\epsilon$
             - `projection_patterns_T14_y8000_epsilon1_fold0.nc` : projection patterns at different values of $\tau$
             - `Skill_percent5_y8000_epsilon1.nc` : skills of GA and CNN at different values of $T$ and $\tau$
-            - `Skill_T14_tau0_percent5.nc` : skills of GA and CNN at different values of $\epsilon$ and number of years of training.
+            - `Skill_T14_tau0_percent5.nc` : skills of GA and CNN + condition number of $\Sigma_{XX}$ at different values of $\epsilon$ and number of years of training.
             - `Skill-CNN_T14_tau0_y8000.nc` : skill of CNN at different values of $a$
             - `Skill-GA_percent5_y80_epsilonbest-Z.nc` : skill of GA at different values of $T$ and $\tau$ (unsing only geopotential height as predictor)
             - `Skill-GA_percent5_y80_epsilonbest.nc` : skill of GA at different values of $T$ and $\tau$
@@ -110,6 +110,7 @@ In the following we show which notebook you need to run to reproduce any specifi
 - Figure S5 : `PLASIM/composites/composites.ipynb`
 - Figure S6 : `ERA5/committor/spectral-decomposition.ipynb`
 - Figure S7 : `ERA5/committor/spectral-decomposition.ipynb`
+- Figure S8 : `PLASIM/committor/committor.ipynb`
 
 - Table S1, S2, S3 : `PLASIM/composites/composites.ipynb`
 - Table S4 : `ERA5/committor/committor-ERA5.ipynb`
