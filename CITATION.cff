@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lovo"
+  given-names: "Alessandro"
+  orcid: "https://orcid.org/0000-0003-2024-6182"
+- family-names: "Mascolo"
+  given-names: "Valeria"
+  orcid: "https://orcid.org/0009-0007-6384-9027"
+title: "gaussian-approximation-zenodo"
+version: 2.0.1
+doi: 10.5281/zenodo.1234
+date-released: 2024-12-27
+url: "https://github.com/AlessandroLovo/gaussian-approximation-zenodo"
